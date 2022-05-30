@@ -58,7 +58,7 @@ public class way_too_long_words {
      * this program works and funtions well
      * 
      * Time : 187 ms
-     * Memory : 0KB
+     * Memory : 0 KB
      */
 
 }
