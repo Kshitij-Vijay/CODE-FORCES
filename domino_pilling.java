@@ -32,7 +32,7 @@ public class domino_pilling {
         int m = Integer.parseInt(in.next());
         int n = Integer.parseInt(in.next());
         // m*n gives the area
-        // we can fit total area /area of one domino in the square...and mod gives us
+        // we can fit total area / area of one domino in the square...and mod gives us
         // unused space where we cannot fit any 2*1 dominos
         int d = (m * n) / 2;
         System.out.println(d);
