@@ -49,5 +49,8 @@ public class watermlon_cf {
 
     Time : 374 ms
     Memory : 0 KB
+    Tests : 20
+    https://codeforces.com/contest/4/submission/158894203
+    
     */
 }
