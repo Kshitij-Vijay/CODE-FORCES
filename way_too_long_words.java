@@ -62,6 +62,8 @@ public class way_too_long_words {
      * 
      * Time : 187 ms
      * Memory : 0 KB
+     * Tests : 20 
+     * https://codeforces.com/contest/71/submission/158896510
      */
 
 }
