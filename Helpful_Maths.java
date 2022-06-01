@@ -64,6 +64,7 @@ public class Helpful_Maths {
     Time : 404 ms
     Memory : 0 KB
     Tests : 21
+    https://codeforces.com/contest/339/submission/159081069
     
     */
 }
