@@ -59,6 +59,7 @@ public class beautiful_matrix {
      * 
      * Time : 372 ms
      * Memory : 0 KB
-     * 
+     * Tests : 25
+     * https://codeforces.com/contest/263/submission/159079703
      */
 }
