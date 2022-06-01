@@ -48,6 +48,7 @@ public class Next_round {
      * 
      * Time : 404 ms
      * Memory : 0 KB
+     * Tests : 50
      * https://codeforces.com/contest/158/submission/159054452
      *
      */
