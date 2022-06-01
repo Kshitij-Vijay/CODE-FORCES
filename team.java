@@ -45,6 +45,8 @@ public class team {
 
     Time : 436 ms
     Memory : 0 KB
+    Tests : 21
+    https://codeforces.com/contest/231/submission/159004438
     
     */
 }
