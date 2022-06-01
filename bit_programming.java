@@ -63,6 +63,8 @@ public class bit_programming {
 
     Time : 202 ms
     Memory : 0 KB
+    Tests : 36
+    https://codeforces.com/contest/282/submission/159072074
 
     */
 }
