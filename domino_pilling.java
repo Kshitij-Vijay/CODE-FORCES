@@ -42,6 +42,8 @@ public class domino_pilling {
      * 
      * Time : 404 ms
      * Memory : 0 KB
-     * 
+     * Tests : 35
+     * https://codeforces.com/contest/50/submission/159062694
+     *
      */
 }
