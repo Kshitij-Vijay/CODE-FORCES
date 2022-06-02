@@ -28,13 +28,15 @@ public class bear_and_big_brother {
     static Scanner in = new Scanner(System.in);
 
     public static void main(String[] args) {
-        int l = Integer.parseInt(in.next());
-        int b = Integer.parseInt(in.next());
-        int count = 0;
-        while (l <= b) {
+        int l = Integer.parseInt(in.next());// Lamark's weight
+        int b = Integer.parseInt(in.next());// Bob's weight
+        int count = 0;// int to count the number of years passed
+        while (l <= b) {// we use <= if in the case Lamark and bob are equal
+            // as Lamrk increases by 3 and Bob by 2
             l = l * 3;
             b = b * 2;
             count++;
+            // increamenting the bount of every year
         }
         System.out.println(count);
     }
