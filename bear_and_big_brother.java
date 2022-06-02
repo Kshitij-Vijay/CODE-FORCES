@@ -1,6 +1,5 @@
 /*
 
-
 <QUESTIONS>  791A - 11 :                BEAR AND BIG BROTHER
 
 time limit per test1 second
