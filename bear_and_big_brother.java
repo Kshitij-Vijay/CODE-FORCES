@@ -2,10 +2,9 @@
 
 <QUESTIONS>  791A - 11 :                BEAR AND BIG BROTHER
 
-time limit per test1 second
-memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+time limit per test : 1 second
+memory limit per test : 256 megabytes
+
 Bear Limak wants to become the largest of bears, or at least to become larger than his brother Bob.
 
 Right now, Limak and Bob weigh a and b respectively. It's guaranteed that Limak's weight is smaller than or equal to his brother's weight.
