@@ -1,6 +1,5 @@
 /*
 
-
 <QUESTION> 510A - 15 :                      FOX AND SNAKE
 
 time limit per test : 2 seconds
