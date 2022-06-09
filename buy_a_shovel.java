@@ -43,9 +43,10 @@ public class buy_a_shovel {
     /*
      * PROGRAM WORKS WELL
      * 
-     * Time :
-     * Memory :
-     * Tests :
-     * 
+     * Time : 187 ms
+     * Memory : 0 KB
+     * Tests : 54
+     * https://codeforces.com/contest/732/submission/160033747
+     *
      */
 }
