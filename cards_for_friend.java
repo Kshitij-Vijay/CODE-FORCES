@@ -33,7 +33,7 @@ You can output "YES" and "NO" in any case (for example, the strings yEs, yes, Ye
 
 import java.util.Scanner;
 
-public class cards_for_friend {
+public class cards_for_friends {
     static Scanner in = new Scanner(System.in);
 
     public static void main(String[] args) {
