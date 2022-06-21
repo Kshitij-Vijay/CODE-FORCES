@@ -54,5 +54,6 @@ public class vanya_and_cubes {
      * Memory : 0 KB
      * Tests : 25
      * https://codeforces.com/contest/492/submission/161326749
+     * 
      */
 }
