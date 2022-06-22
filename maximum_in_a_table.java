@@ -2,7 +2,6 @@
 
 <QUESTION> 509A - 18 :                          MAXIMUM IN A TABLE
 
-A. Maximum in Table
 time limit per test : 2 seconds
 memory limit per test : 256 megabytes
 
