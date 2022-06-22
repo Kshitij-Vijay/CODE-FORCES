@@ -28,8 +28,8 @@ public class fafa_and_his_company {
         int n = Integer.parseInt(in.nextLine());
         int s = 0;
         for (int i = 1; i < n; i++) {
-            // n-1 means we are subtracting those many employess as team leaders
-            // then we check if it is possible to divide the remaining employes into same
+            // n-1 means we are subtracting those many employees as team leaders
+            // then we check if it is possible to divide the remaining employees into same
             // groups under the leaders
             if (n % (n - i) == 0) {
                 // every time possible we add one to out counter
