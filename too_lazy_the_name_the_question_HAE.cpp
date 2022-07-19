@@ -11,6 +11,7 @@ int main(){
 			count++;
 		}
 	}
+	// finding the last number
 	
 	int s;
 	if(i%a==0 && i%b==0){
@@ -28,6 +29,11 @@ int main(){
 	}else{
 		s=b;
 	}
+	// this is to find step
+
+	// the both divisible numbers are a or b or some distance away
+	// that distance is s
+	// so we use that to print
 	for(;i>=0;i-=s){
 		cout<<i<<" ";
 	}
