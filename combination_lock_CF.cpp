@@ -3,17 +3,16 @@ using namespace std;
 int main(){
 	int n;
 	cin>>n;
-	int a,b,sum=0;
+	int sum=0;
+	string a,b;
 	cin>>a>>b;
-	while(n--){
-		if(a%10>=b%10)
-            sum+=min(a%10-b%10,b%10+10-a%10);
-        else{
-            sum+=min(b%10-a%10,a%10+10-b%10);
-        }
-	    }
-	    a/=10;
-	    b/=10;
-	
+	for(int i=0;i<n;i++){
+		int x=a[i],y=b[i];
+		if(x>y){
+			sum+=min(x-y,y-x+10);
+		}else{
+			sum+=min(y-x,x-y+10);
+		}
+	}	
 	cout<<sum<<endl;
 }
