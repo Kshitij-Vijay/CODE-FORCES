@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-	// minu
-	const int N = 2*(1e+6);
+	// must have the exactly upto the constraints
+	const int N = (2*(1e+5))+1;
 	int t;
 	cin>>t;
 	while(t--){
